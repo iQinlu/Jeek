@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/%E8%AE%B0%E5%BF%86%E9%87%8C%E9%9D%A2-Jeek-green.svg)  ![](https://img.shields.io/github/watchers/iQinlu/Jeek.svg)  ![](https://img.shields.io/github/stars/iQinlu/Jeek.svg)  ![](https://img.shields.io/github/forks/iQinlu/Jeek.svg)
+![](https://img.shields.io/badge/%E6%B2%81%E8%B7%AF-iQinlu-yellowgreen)  ![](https://img.shields.io/github/watchers/iQinlu/Jeek.svg)  ![](https://img.shields.io/github/stars/iQinlu/Jeek.svg)  ![](https://img.shields.io/github/forks/iQinlu/Jeek.svg)
 
 # Jeek: java geek
 > java程序猿架构师成长之路，主要归纳和总结java技能树的checklist。    
